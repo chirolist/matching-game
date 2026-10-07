@@ -1,0 +1,1 @@
+npm run lint && NEXT_DIST_DIR=.next-build npm run build
